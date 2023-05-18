@@ -1,4 +1,4 @@
-package com.sandeep.TrainBooking.model;
+package com.sandeep.TrainTicketBooking.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

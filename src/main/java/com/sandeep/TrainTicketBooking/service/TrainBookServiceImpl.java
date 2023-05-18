@@ -1,9 +1,10 @@
-package com.sandeep.TrainBooking.service;
+package com.sandeep.TrainTicketBooking.service;
 
-import com.sandeep.TrainBooking.dao.UserDao;
-import com.sandeep.TrainBooking.model.TrainBook;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+
+import com.sandeep.TrainTicketBooking.dao.UserDao;
+import com.sandeep.TrainTicketBooking.model.TrainBook;
 
 import java.util.List;
 

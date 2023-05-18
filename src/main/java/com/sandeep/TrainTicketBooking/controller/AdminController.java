@@ -1,9 +1,10 @@
-package com.sandeep.TrainBooking.controller;
+package com.sandeep.TrainTicketBooking.controller;
 
-import com.sandeep.TrainBooking.model.TrainDetails;
-import com.sandeep.TrainBooking.service.TrainServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+
+import com.sandeep.TrainTicketBooking.model.TrainDetails;
+import com.sandeep.TrainTicketBooking.service.TrainServiceImpl;
 
 import java.util.List;
 import java.util.Optional;

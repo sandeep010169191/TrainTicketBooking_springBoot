@@ -1,4 +1,4 @@
-package com.sandeep.TrainBooking;
+package com.sandeep.TrainTicketBooking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 
 @SpringBootApplication
 @EnableWebSecurity
-public class TrainBookingApplication {
+public class TrainTicketBookingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TrainBookingApplication.class, args);
+		SpringApplication.run(TrainTicketBookingApplication.class, args);
 	}
 
 }

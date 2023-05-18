@@ -1,9 +1,9 @@
-package com.sandeep.TrainBooking.service;
-
-import com.sandeep.TrainBooking.model.TrainDetails;
+package com.sandeep.TrainTicketBooking.service;
 
 import java.util.List;
 import java.util.Optional;
+
+import com.sandeep.TrainTicketBooking.model.TrainDetails;
 
 public interface TrainService {
 

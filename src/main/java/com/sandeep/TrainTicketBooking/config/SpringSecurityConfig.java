@@ -1,4 +1,4 @@
-package com.sandeep.TrainBooking.config;
+package com.sandeep.TrainTicketBooking.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

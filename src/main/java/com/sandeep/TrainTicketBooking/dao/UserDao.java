@@ -1,7 +1,8 @@
-package com.sandeep.TrainBooking.dao;
+package com.sandeep.TrainTicketBooking.dao;
 
-import com.sandeep.TrainBooking.model.TrainBook;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.sandeep.TrainTicketBooking.model.TrainBook;
 
 public interface UserDao extends JpaRepository<TrainBook, Integer> {
 }

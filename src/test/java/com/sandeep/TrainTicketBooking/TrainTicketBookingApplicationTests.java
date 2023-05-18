@@ -1,10 +1,10 @@
-package com.sandeep.TrainBooking;
+package com.sandeep.TrainTicketBooking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TrainBookingApplicationTests {
+class TrainTicketBookingApplicationTests {
 
 	@Test
 	void contextLoads() {
